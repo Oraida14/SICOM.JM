@@ -24,6 +24,7 @@
 }
 .slider img {
     width: 100%;
+    border-style: 20px;
 
 }
 @keyframes cambio {
