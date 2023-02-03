@@ -27,17 +27,17 @@
 
 }
 @keyframes cambio {
-    0% {margin-left: 0%;}
-    45% {margin-left: 0%;}
+    0% {margin-right: 5%;}
+    0% {margin-left: 5%;}
 
-    75% {margin-left: -75%;}
-    85% {margin-left: -75%;}
-
-    100% {margin-left: -50%;}
-    120% {margin-left: -50%;}
+    0% {margin-right: 5%;}
+    0% {margin-left: 5
+        
+   0% {margin-right: 5%;} 
+    0% {margin-left: 5%;}
     
-    125% {margin-left: -20%;}
-    145% {margin-left: -20%;}
+    0% {margin-right: 5%;}
+    0% {margin-left: 5%;}
 
 } 
 
