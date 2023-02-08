@@ -29,16 +29,10 @@
 }
 @keyframes cambio {
         0% {margin-left: 5%;}
-    25% {margin-right: 5%;}
+        0% {margin-left: 5%;}
 
-     0% {margin-right: 5%;}
-    0% {margin-left: 5%;}
 
-    0% {margin-right: -45%;}
-    5% {margin-left: 15%;}
     
-    0% {margin-right: -45%;}
-    5% {margin-left: 15%;}
 
 
 
